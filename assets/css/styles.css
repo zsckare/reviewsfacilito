@@ -1,0 +1,19 @@
+.dosis{
+	font-family: 'Dosis', sans-serif !important;
+}
+
+.padding-largo{
+	padding: 1.2em;
+}
+.primary{
+	background: #03a9f4;
+}
+.primary-dark{
+	background-color: #0288d1;
+}
+.accent{
+	background-color: #eeff41;
+}
+.be-black{
+	color: #000 !important;
+}
